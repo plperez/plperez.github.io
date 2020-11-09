@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/plperez/plperez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This personal blog showcases my data science projects, mostly focused around the use of statistical methods and machine learning to science and engineering applications. Although I cannot call myself a Data Scientist in my current job, I use data science tools extensively in my job to make things better, faster, or more efficiently. A bit about me:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Bachelor of Science in Chemistry, from the Universidad Central de Venezuela (Caracas, Venezuela).
+* PhD in Fuel Science, from the Pennsylvania State University (University Park, PA, USA).
+* Currently a Senior Engineer at SUEZ Water Technology & Solutions (Tomball, TX, USA). (**Disclaimer**: This is a personal blog, and in no way my opinions, conclusions, and discussions, are endorsed by my employer--and viceversa).
 
-### Markdown
+Here, you will find projects and my attempts to solve problems using data science tools, regarding:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Data cleaning, data consolidation, and data tidying.
+* Improved visualization of scientific data.
+* Use of statistical models, or machine learning models to understand structure-property relationships of hydrocarbon fuels, and chemical compounds.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plperez/plperez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
