@@ -2,8 +2,14 @@
 "Chemical Data Science" is a recognized field that combines the principles of chemistry with data science techniques. It's essentially the application of data analysis, machine learning, and computational methods to solve problems in chemistry and related fields. 
 
 ## What Do We Mean by “Chemical Data Science”?
-The established field that merges chemistry with computer science is known as Cheminformatics. Cheminformatics focuses heavily on molecular representation, algorithms, and predictive modeling for applications such as drug discovery, bioactivity analysis, and structure–property relationships. It’s a specialized domain with decades of academic research and well-developed tools like RDKit, ChEMBL, and PubChem.
+The established academic field that connects chemistry and computing is often called Cheminformatics. Cheminformatics focuses primarily on molecules: representing chemical structures in data form, calculating descriptors, predicting molecular properties, and supporting applications such as drug discovery and materials design.
 
-In this blog, however, I’ll often use the term Chemical Data Analytics. By this I mean the application of general data science techniques—Python, SQL, Excel, visualization, and machine learning—to chemical and process-related datasets. The scope is broader than cheminformatics alone: not just molecules, but also laboratory measurements, safety incident records, and industrial process data.
+In this blog, however, I’ll be using the broader term Chemical Data Science. This reflects not only cheminformatics but also the wider use of modern data science methods—Python, SQL, Excel, and machine learning—applied to chemical and process-related data.
 
-My aim is to make chemistry more accessible through modern data science workflows—cleaning data, visualizing trends, asking practical questions, and sharing insights. Think of Chemical Data Analytics as a hands-on, applied approach that complements cheminformatics and brings chemical data into the wider world of analytics.
+Chemical Data Science includes:
+* Exploratory data analysis (EDA) of laboratory or industrial measurements.
+* Predictive modeling of chemical or physical properties.
+* Mining safety or regulatory datasets for patterns.
+* Using visualization and statistics to communicate insights about chemistry.
+
+In other words, Chemical Data Science blends the rigor of chemistry with the toolkit of data science. It’s an evolving field, recognized by universities and industry alike, and my goal in this blog is to share practical, approachable examples that showcase how data science can unlock insights hidden in chemical information.
