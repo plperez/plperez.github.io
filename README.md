@@ -1,0 +1,1 @@
+This blog explores Chemical Data Science — the application of modern data science and analytics tools (Python, SQL, Excel, ML) to chemical and industrial datasets. From molecules to process data, my goal is to share practical, reproducible projects that reveal insights hidden in chemical information
