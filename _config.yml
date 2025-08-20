@@ -1,7 +1,3 @@
-title: Exploring Chemical Data Science
-description: Practical projects with Python, SQL, and Excel to unlock insights in chemistry and industry
-theme: minima
-
-header_pages:
-  - index.md
-  - blog.md
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
