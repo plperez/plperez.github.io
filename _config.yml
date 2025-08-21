@@ -1,3 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /about/
