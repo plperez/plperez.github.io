@@ -1,6 +1,16 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
+  - jekyll-include-cache
   - jekyll-remote-theme
+
+minimal_mistakes_skin: "default" # options: default, air, aqua, contrast, dark, dirt, neon, sunrise
+
+title: "Chemical Data Science Blog"
+description: "Practical projects with Python, R, SQL, and Excel to unlock insights in chemistry and industry"
+url: "https://plperez.github.io"
+
+# Main navigation
 navigation:
   - title: "Home"
     url: /
